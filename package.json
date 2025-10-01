@@ -1,0 +1,43 @@
+{
+  "name": "mcp-project-context",
+  "version": "2.0.0",
+  "description": "MCP Server para gerenciar contexto de projetos em desenvolvimento",
+  "main": "dist/index.js",
+  "type": "module",
+  "bin": {
+    "mcp-project-context": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "mcp",
+    "context",
+    "project-management",
+    "development",
+    "claude",
+    "ai",
+    "model-context-protocol"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seu-usuario/mcp-project-context.git"
+  },
+  "bugs": {
+    "url": "https://github.com/seu-usuario/mcp-project-context/issues"
+  },
+  "homepage": "https://github.com/seu-usuario/mcp-project-context#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4",
+    "pg": "^8.13.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "@types/pg": "^8.11.10",
+    "typescript": "^5.7.3"
+  }
+}

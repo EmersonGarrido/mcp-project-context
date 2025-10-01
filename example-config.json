@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "project-context": {
+      "command": "mcp-project-context",
+      "description": "Gerenciador de contexto de projetos - mantém regras de negócio, padrões de código e contexto geral"
+    }
+  }
+}
