@@ -497,6 +497,12 @@ Vote nas features que você quer! Abra uma issue com 👍
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
+## 👨‍💻 Autor
+
+**Emerson Garrido**
+- GitHub: [@EmersonGarrido](https://github.com/EmersonGarrido)
+- Email: emersongarrido.dev@gmail.com
+
 ## 🙏 Agradecimentos
 
 - [Anthropic](https://www.anthropic.com/) - Pelo Claude e o Model Context Protocol
@@ -507,7 +513,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 - 🐛 **Bugs**: [Abra uma issue](https://github.com/EmersonGarrido/mcp-project-context/issues)
 - 💬 **Discussões**: [GitHub Discussions](https://github.com/EmersonGarrido/mcp-project-context/discussions)
-- 📧 **Email**: emersongarrido@example.com
+- 📧 **Email**: emersongarrido.dev@gmail.com
 
 ---
 
