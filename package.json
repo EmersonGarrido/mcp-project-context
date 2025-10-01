@@ -25,12 +25,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/seu-usuario/mcp-project-context.git"
+    "url": "git+https://github.com/EmersonGarrido/mcp-project-context.git"
   },
   "bugs": {
-    "url": "https://github.com/seu-usuario/mcp-project-context/issues"
+    "url": "https://github.com/EmersonGarrido/mcp-project-context/issues"
   },
-  "homepage": "https://github.com/seu-usuario/mcp-project-context#readme",
+  "homepage": "https://github.com/EmersonGarrido/mcp-project-context#readme",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.4",
     "pg": "^8.13.1"

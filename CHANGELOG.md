@@ -89,5 +89,5 @@ Esta versão traz uma expansão massiva de funcionalidades, transformando o serv
 - Estatísticas por categoria
 - Suporte a múltiplos projetos simultaneamente
 
-[2.0.0]: https://github.com/seu-usuario/mcp-project-context/releases/tag/v2.0.0
-[1.0.0]: https://github.com/seu-usuario/mcp-project-context/releases/tag/v1.0.0
+[2.0.0]: https://github.com/EmersonGarrido/mcp-project-context/releases/tag/v2.0.0
+[1.0.0]: https://github.com/EmersonGarrido/mcp-project-context/releases/tag/v1.0.0

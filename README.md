@@ -25,10 +25,10 @@
 npm install -g mcp-project-context
 
 # GitHub (instale direto do repositório)
-npm install -g git+https://github.com/seu-usuario/mcp-project-context.git
+npm install -g git+https://github.com/EmersonGarrido/mcp-project-context.git
 
 # Ou clone e instale localmente
-git clone https://github.com/seu-usuario/mcp-project-context.git
+git clone https://github.com/EmersonGarrido/mcp-project-context.git
 cd mcp-project-context
 npm install && npm run build
 npm install -g .
@@ -358,7 +358,7 @@ Novos desenvolvedores carregam instantaneamente:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/mcp-project-context.git
+git clone https://github.com/EmersonGarrido/mcp-project-context.git
 cd mcp-project-context
 
 # Instale dependências
@@ -505,9 +505,9 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 📞 Suporte
 
-- 🐛 **Bugs**: [Abra uma issue](https://github.com/seu-usuario/mcp-project-context/issues)
-- 💬 **Discussões**: [GitHub Discussions](https://github.com/seu-usuario/mcp-project-context/discussions)
-- 📧 **Email**: seu-email@example.com
+- 🐛 **Bugs**: [Abra uma issue](https://github.com/EmersonGarrido/mcp-project-context/issues)
+- 💬 **Discussões**: [GitHub Discussions](https://github.com/EmersonGarrido/mcp-project-context/discussions)
+- 📧 **Email**: emersongarrido@example.com
 
 ---
 
